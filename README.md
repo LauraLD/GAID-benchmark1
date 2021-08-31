@@ -1,6 +1,6 @@
 # GAID-benchmark1
 
-The GAID-benchmark1 evaluation base is available to researchers on Semantic Annotation and Question Answering System. The base was created with dataset for open-domain question answering of WikiQA for download.
+The GAID-benchmark1 evaluation base is available to researchers on Semantic Annotation and Question Answering System. The base was created with dataset for open-domain question answering of WikiQA.
 
 The documents were originally made available by this work:
 
