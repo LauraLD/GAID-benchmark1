@@ -16,10 +16,12 @@ The documents were originally made available by this work:
 However, if you use this benchmark in your research, please cite:
 
 ```latex
-@inproceedings{dias_gaid_2021,
-  title={Uma Abordagem de Anota{\c{c}}{\~a}o Sem{\^a}ntica Autom{\'a}tica Direcionada Para Sistemas de Perguntas e Respostas},
+@inproceedings{dias2021abordagem,
+  title={Uma Abordagem de Anota{\c{c}}{\~a}o Sem{\^a}ntica Autom{\'a}tica Direcionada a Sistemas de Perguntas e Respostas},
   author={Dias, Laura Lima and Espiridiao, Luciano Vilas Boas and Ferreira, Anderson Almeida},
-  booktitle={SBBD},
-  year={2021}
+  booktitle={Anais do XXXVI Simp{\'o}sio Brasileiro de Bancos de Dados},
+  pages={145--156},
+  year={2021},
+  organization={SBC}
 }
 ```
